@@ -1,0 +1,7 @@
+{
+  "name": "bordateste",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
